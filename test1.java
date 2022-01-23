@@ -1,3 +1,3 @@
 public static void main(String []argv){
-    system.out.println("???`122");
-        }
+    system.out.println("please,my goal")
+}
